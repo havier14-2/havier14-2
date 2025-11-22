@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>¡Hola! Soy [Tu Nombre] 👋</h1>
+  <h1>¡Hola! Soy Javier Albornoz👋</h1>
   <h3>Estudiante de Ingeniería en Informática | Futuro Ingeniero en IA 🤖</h3>
   
   <p>
