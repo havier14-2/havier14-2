@@ -1,68 +1,74 @@
 <div align="center">
-  <h1>¡Hola! Soy Javier Albornoz👋</h1>
-  <h3>Estudiante de Ingeniería en Informática | Futuro Ingeniero en IA 🤖</h3>
-  
-  <p>
-    <a href="https://www.linkedin.com/in/javier-albornoz-carrasco-a8357336b/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:javierluciano14@gmail.com>
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </p>
+
+# ¡Hola! Soy Javier Albornoz 👋
+### Architecting Scalable Backends | Evolving into AI Engineering
+
+**Ingeniero en Formación | Desarrollador Backend Sólido | Futuro Especialista en IA/ML 🤖**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tu-url-aqui)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=codepen)](https://tu-portfolio-aqui.com)
+
 </div>
 
 ---
 
-### 👨‍💻 Sobre mí
+## 🚀 Sobre Mí: El Puente entre la Ingeniería y la Excelencia Operativa
 
-Actualmente curso el **4º semestre de Ingeniería en Informática** en **Duoc UC**, próximo a obtener mi título de **Analista Programador**. Mi objetivo es especializarme en **Ingeniería en Inteligencia Artificial** 🧠.
+Soy un estudiante de **Ingeniería Informática** en la etapa final para obtener mi título de **Analista Programador**, transitando estratégicamente hacia la especialización en **Ingeniería en Inteligencia Artificial**.
 
-Vengo del mundo de la hostelería, donde trabajé durante 5 años. Esta experiencia fue clave para desarrollar mi capacidad de **comunicación efectiva, resolución de problemas bajo presión y trabajo en equipo**. Hoy, traslado esa ética de trabajo y motivación al desarrollo de software.
+Mi perfil es una amalgama única de rigor técnico y habilidades humanas avanzadas:
 
-🌱 **Actualmente estoy:**
-* Profundizando en **Spring Boot** y **Kotlin**.
-* Preparándome para mi especialización en **IA**.
-* Buscando oportunidades para aportar valor real en equipos de desarrollo.
-
----
-
-### 🛠 Tech Stack
-
-**Lenguajes y Backend**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xano-000000?style=flat-square&logo=xano&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-</p>
-
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p>
-
-**Bases de Datos**
-<p>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
-
-**Herramientas**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+* **💼 De la Hostelería a la Tecnología:** Mi experiencia previa en el sector de servicios de alto nivel no es un paréntesis, es mi ventaja competitiva. He perfeccionado la **inteligencia emocional**, la **negociación con stakeholders** y la **excelencia operativa** bajo presión. Llevo esa misma disciplina y atención al detalle a cada línea de código que escribo.
+* **🧠 Mentalidad Técnica:** No me conformo con "que funcione". Aplico rigurosamente principios de **Clean Code**, patrones de diseño y arquitecturas robustas. Entiendo el desarrollo de software como una artesanía industrial: escalable, mantenible y eficiente.
+* **🤖 Visión de Futuro:** Mi objetivo es fusionar la solidez del desarrollo Backend empresarial con el poder predictivo del Machine Learning.
 
 ---
 
-### 📊 Estadísticas de GitHub
+## 🛠 Tech Stack & Arsenald de Herramientas
+
+Mi base es el desarrollo Backend robusto, pero mi vector de crecimiento apunta directamente a Python y el ecosistema de Data Science.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=havier14-2&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=havier14-2&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+### 🧬 AI & Data Science Core
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+### ⚙️ Backend & Enterprise Development
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### 🗄️ Data Persistence
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🔧 Tools & DevOps
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 Roadmap: Proyectos y Próximos Pasos
+
+Mi enfoque actual no es estático; es un *roadmap* agresivo de aprendizaje y aplicación práctica:
+
+* 🤖 **Especialización en IA:** Implementación activa de modelos de Machine Learning en proyectos personales, utilizando **Python** como lenguaje vehicular y librerías como **Scikit-learn** para análisis predictivo.
+* 🏗️ **Arquitectura de Software:** Profundizando en Microservicios con **Spring Boot** y **Kotlin**, asegurando que la infraestructura pueda soportar cargas de trabajo de datos intensivas.
+* 🔍 **Búsqueda Activa:** Estoy buscando oportunidades de **Pasantía/Trainee** donde pueda aportar valor inmediato con mi stack de Java/SQL, mientras absorbo conocimientos en equipos orientados a la Inteligencia Artificial.
+
+---
+
+<div align="center">
+
+### ¿Conectamos?
+*Estoy listo para aportar madurez operativa y pasión técnica a tu equipo.*
+
+[📧 Envíame un correo](mailto:tu-email@ejemplo.com)
+
 </div>
