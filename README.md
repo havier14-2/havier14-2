@@ -85,13 +85,10 @@ Más allá de las clases, estoy construyendo mi camino profesional:
 
 ### 📊 Actividad en GitHub
 
-<a href="https://github.com/havier14-2">
-  <img src="https://github-readme-stats.vercel.app/api?username=havier14-2&show_icons=true&theme=tokyonight&locale=es&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=havier14-2&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph" />
-</a>
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=havier14-2&show_icons=true&theme=tokyonight&locale=es&hide_border=true)
 
-<br/>
+![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=havier14-2&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=havier14-2&theme=tokyonight&hide_border=true&locale=es&date_format=d%20M%20Y" alt="streak graph" />
+![Racha](https://github-readme-streak-stats.herokuapp.com/?user=havier14-2&theme=tokyonight&hide_border=true&locale=es&date_format=d%20M%20Y)
 
 </div>
