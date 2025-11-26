@@ -5,8 +5,8 @@
 
 **Ingeniero en Formación | De la Hostelería al Código | Especializándome en Machine Learning 🤖**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tu-url-aqui)
-[![GitHub](https://img.shields.io/badge/GitHub-Ver_Código-181717?style=for-the-badge&logo=github)](https://github.com/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/javier-albornoz-carrasco-a8357336b)
+[![GitHub](https://img.shields.io/badge/GitHub-Ver_Código-181717?style=for-the-badge&logo=github)](https://github.com/havier14-2)
 
 </div>
 
