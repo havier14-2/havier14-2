@@ -66,15 +66,6 @@ Mi perfil combina la lógica del backend con una fuerte orientación a las perso
 ---
 
 <div align="center">
-  
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=havier14-2&show_icons=true&theme=radical&locale=es&hide_border=true" alt="Javier's Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=havier14-2&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<br/>
 
 **¿Buscas un desarrollador Junior / Trainee con madurez y pasión?**
 <br/>
