@@ -69,12 +69,17 @@ Mi perfil combina la lógica del backend con una fuerte orientación a las perso
   
 ### 📈 GitHub Stats
 
-![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=havier14-2&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=havier14-2&layout=compact&theme=radical)](https://github.com/havier14-2)
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=havier14-2&show_icons=true&theme=radical&locale=es&hide_border=true" alt="Javier's Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=havier14-2&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 <br/>
 
 **¿Buscas un desarrollador Junior / Trainee con madurez y pasión?**
-[📩 Escríbeme a LinkedIn](https://www.linkedin.com/in/javier-albornoz-carrasco-a8357336b/)
+<br/>
+<a href="https://www.linkedin.com/in/javier-albornoz-carrasco-a8357336b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Escríbeme_aquí-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
 
 </div>
