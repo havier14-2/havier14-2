@@ -1,9 +1,9 @@
 <div align="center">
 
 # ¡Hola! Soy Javier Albornoz 👋
-### Desarrollador Full Stack | Amante de los Datos | Futuro Ingeniero en IA
+### Desarrollador Full Stack | Java & Python Focus | Futuro Ingeniero en IA
 
-**Ingeniero en Formación | De la Hostelería al Código | Especializándome en Machine Learning 🤖**
+**Ingeniero Informático en Formación @Duoc UC | De la Hostelería al Código ☕ -> 💻**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/javier-albornoz-carrasco-a8357336b/)
 [![GitHub](https://img.shields.io/badge/GitHub-Ver_Código-181717?style=for-the-badge&logo=github)](https://github.com/havier14-2)
@@ -13,27 +13,28 @@
 
 ---
 
-## 🚀 Sobre Mí: Mi Historia
+## 🚀 Sobre Mí: Mi Historia Profesional
 
-Soy estudiante de **Ingeniería Informática**, a punto de convertirme en Analista Programador y con la mirada puesta en la **Ingeniería en Inteligencia Artificial**.
+Soy estudiante de cuarto semestre de **Ingeniería en Informática**, próximo a recibir mi título de **Analista Programador**. Mi hoja de ruta profesional tiene un destino claro: la especialización en **Inteligencia Artificial (IA)** y **Machine Learning**.
 
-Mi camino no ha sido lineal, y eso es lo que me define:
+Mi perfil combina la lógica del backend con una fuerte orientación a las personas:
 
-* **☕ El Valor del Servicio:** Antes de programar, fui barista. Allí aprendí algo que ningún IDE te enseña: **empatía, paciencia y cómo manejar situaciones críticas con una sonrisa**. Ahora, aplico esa misma dedicación para crear software que no solo funcione, sino que resuelva problemas reales de las personas.
-* **💡 Curiosidad Técnica:** Me encanta entender el "por qué" de las cosas. Ya sea optimizando una consulta SQL o diseñando una interfaz en React, busco escribir código limpio, ordenado y que mis compañeros puedan entender fácilmente.
-* **🌱 Creciendo hacia la IA:** Mi base es el desarrollo web (Full Stack), pero mi verdadera pasión está en los datos. Estoy aprendiendo a usar Python no solo para scripts, sino para crear modelos que "piensen".
+* **☕ Soft Skills & Servicio (El valor diferencial):** Antes del código, dediqué 5 años a la hostelería. Allí desarrollé **comunicación efectiva**, gestión de stakeholders y trabajo bajo presión. Entiendo que el software lo usan humanos; por eso programo con empatía.
+* **💡 Enfoque Técnico:** Me especializo en construir soluciones robustas. Busco escribir código limpio (Clean Code) y escalable, ya sea en una API REST con **Spring Boot** o una interfaz dinámica con **React**.
+* **🌱 Data Driven:** Aunque mi base es Full Stack, mi pasión son los datos. Uso **Python** para ir más allá del scripting, explorando el análisis de datos y la creación de modelos.
 
 ---
 
-## 🛠 Mi Caja de Herramientas
+## 🛠 Tech Stack & Habilidades
 
-Tengo un perfil versátil. Me muevo bien entre el Frontend, el Backend y las bases de datos, y disfruto conectando todas las piezas.
+*Me muevo con agilidad entre el desarrollo Backend (Java/Kotlin), Frontend (React) y la Ciencia de Datos (Python).*
 
 <div align="center">
 
-### 🐍 Data Science & IA (Mi Foco Actual)
+### 🐍 Data Science & IA (Foco de Especialización)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 💻 Backend & Ecosistema Java
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -41,5 +42,39 @@ Tengo un perfil versátil. Me muevo bien entre el Frontend, el Backend y las bas
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Xano](https://img.shields.io/badge/Xano-NoCode_Backend-purple?style=for-the-badge)
 
-### 🎨 Frontend & Web
-![JavaScript](
+### 🎨 Frontend & Web Technologies
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄 Bases de Datos & Herramientas
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+### 📋 Resumen de Competencias Técnicas
+* **Lenguajes:** Java, Python, Kotlin, JavaScript.
+* **Backend Frameworks:** Spring Boot, API RESTful development.
+* **Frontend:** React.js, HTML5, CSS3.
+* **Datos:** SQL (Oracle, MySQL), NoSQL (MongoDB), Oracle APEX.
+* **Control de Versiones:** Git, GitHub.
+
+---
+
+<div align="center">
+  
+### 📈 GitHub Stats
+
+![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=havier14-2&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=havier14-2&layout=compact&theme=radical)](https://github.com/havier14-2)
+
+<br/>
+
+**¿Buscas un desarrollador Junior / Trainee con madurez y pasión?**
+[📩 Escríbeme a LinkedIn](https://www.linkedin.com/in/javier-albornoz-carrasco-a8357336b/)
+
+</div>
