@@ -3,7 +3,7 @@
 # ¡Hola! Soy Javier Albornoz 👋
 ### Desarrollador Full Stack | Java & Python Focus | Futuro Ingeniero en IA
 
-**Ingeniero Informático en Formación @Duoc UC | De la Hostelería al Código ☕ -> 💻**
+**Ingeniero Informático en Formación @Duoc UC**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/javier-albornoz-carrasco-a8357336b/)
 [![GitHub](https://img.shields.io/badge/GitHub-Ver_Código-181717?style=for-the-badge&logo=github)](https://github.com/havier14-2)
