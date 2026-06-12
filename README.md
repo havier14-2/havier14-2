@@ -1,7 +1,7 @@
 <div align="center">
 
 # ¡Hola! Soy Javier Albornoz 👋
-### Desarrollador Full Stack | Java & Python Focus | Futuro Ingeniero en IA
+### Desarrollador Full Stack | Java & Python Focus 
 
 **Ingeniero Informático en Formación @Duoc UC**
 
@@ -15,7 +15,7 @@
 
 ## 🚀 Sobre Mí: Mi Historia Profesional
 
-Soy estudiante de cuarto semestre de **Ingeniería en Informática**, próximo a recibir mi título de **Analista Programador**. Mi hoja de ruta profesional tiene un destino claro: la especialización en **Inteligencia Artificial (IA)** y **Machine Learning**.
+Soy estudiante de cuarto semestre de **Ingeniería en Informática**, próximo a recibir mi título de **Analista Programador**.
 
 Mi perfil combina la lógica del backend con una fuerte orientación a las personas:
 
